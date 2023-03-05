@@ -5,3 +5,4 @@ cztery
 naprawiono 4 i 5 issue
 trzeci isuue 
 moze teraz z amknie issu jak napisze fix + numer...
+sdfsd
