@@ -2,3 +2,4 @@ jeden
 dwa
 trzy
 cztery
+naprawiono 4 i 5 issue
